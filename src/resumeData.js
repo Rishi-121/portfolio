@@ -211,7 +211,7 @@ let resumeData = {
     },
     {
       title: "DevIncept Web Dev Track Scholarship Recipient",
-      organizationName: "IncubateIND",
+      organizationName: "DevIncept",
       url: "https://devincept.codes/",
       achievedOn: "February 2021",
       description: [
