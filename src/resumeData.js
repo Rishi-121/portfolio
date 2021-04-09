@@ -1,7 +1,7 @@
 let resumeData = {
   name: "Hrushikesh Das",
   aboutme:
-    "  My name is Hrushikesh. I’m a junior from 🇮🇳 I'm a full-stack js developer 💻, flutte developer 📱, mentor 👨‍🏫 and, a learner 📕. I'm deeply passionate about software development. I believe in the power of community and love community-based learning.",
+    "My name is Hrushikesh. I’m a junior from 🇮🇳 I'm a full-stack js developer 💻, flutter developer 📱, mentor 👨‍🏫 and, a learner 📕. I'm deeply passionate about software development. I believe in the power of community and love community-based learning.",
   socialLinks: [
     {
       url: "mailto:dashrushikesh1121@gmail.com",
