@@ -1,7 +1,7 @@
 let resumeData = {
   name: "Hrushikesh Das",
   aboutme:
-    "My name is Hrushikesh. I’m a junior from 🇮🇳 I'm a full-stack js developer 💻, flutter developer 📱, mentor 👨‍🏫 and, a learner 📕. I'm deeply passionate about software development. I believe in the power of community and love community-based learning.",
+    "My name is Hrushikesh. I’m a junior from 🇮🇳 I'm a full-stack js developer 💻, mentor 👨‍🏫 and, a learner 📕. I'm deeply passionate about software development. I believe in the power of community and love community-based learning.",
   socialLinks: [
     {
       url: "mailto:dashrushikesh1121@gmail.com",
@@ -31,12 +31,8 @@ let resumeData = {
 
   skills: [
     {
-      name: "Full Stack Web Dev",
-      percentage: "85%",
-    },
-    {
-      name: "Flutter Dev",
-      percentage: "70%",
+      name: "Backend Developmet",
+      percentage: "80%",
     },
     {
       name: "Graphics Design",
@@ -66,10 +62,6 @@ let resumeData = {
       path: "ts.png",
     },
     {
-      name: "Dart",
-      path: "dart.png",
-    },
-    {
       name: "PHP",
       path: "php.png",
     },
@@ -80,10 +72,6 @@ let resumeData = {
     {
       name: "React",
       path: "react.png",
-    },
-    {
-      name: "Flutter",
-      path: "flutter.png",
     },
     {
       name: "Databases",
@@ -97,12 +85,22 @@ let resumeData = {
 
   workExperiences: [
     {
+      title: "Backend Developer Intern",
+      organizationName: "Webizy IT Solutions",
+      url: "https://webizysolutions.com/",
+      duration: "May 2021 - Present",
+      description: [
+        "RESTFul APIs development using Nodejs",
+        "Implementation with front-end",
+      ],
+    },
+    {
       title: "Web Development Intern",
       organizationName: "Thakur College of Engineering and Technology, Mumbai",
       url: "https://www.tcetmumbai.in/",
-      duration: "January 2021 - Present",
+      duration: "January 2021 - April 2021",
       description: [
-        "In-house Internship Program with Industry Collaboration - by TCET, Mumbai",
+        "National Initiative Program with Industry Collaboration - by TCET, Mumbai",
       ],
     },
     {
@@ -112,7 +110,7 @@ let resumeData = {
       duration: "January 2021 - February 2021",
       description: [
         "Here, I have completed the 30 days Internship in PHP Development.",
-        "Developed a full-fledged web application with OTP Service, password reset with Mail Service, and Admin panel.",
+        "Developed a full-fledged web application with OTP Service, password reset feature, and Admin panel.",
       ],
     },
     {
@@ -130,8 +128,7 @@ let resumeData = {
       url: "https://webizysolutions.com/",
       duration: "September 2020 - November 2020",
       description: [
-        "This internship is a little bit special, as I had to learn and implement the concepts simultaneously.",
-        "I had learned the concepts of API Development and worked on an important project.",
+        "I had learned the concepts of RESTFul APIs Development.",
       ],
     },
     {
@@ -140,8 +137,8 @@ let resumeData = {
       url: "https://therenalproject.com/",
       duration: "August 2020 - November 2020",
       description: [
-        "Worked as a Web Developer Intern and developed some web applications for their organization.",
-        "Improved my development skills with real corporate development strategies.",
+        "Worked as a Web Developer Intern and developed a web app for their organization.",
+        "Improved my development skills with real-world corporate development strategies.",
       ],
     },
     {
@@ -166,6 +163,15 @@ let resumeData = {
   ],
 
   voluntaryExperiences: [
+    {
+      title: "Web Dev Mentor",
+      organizationName: "DevIncept",
+      url: "https://devincept.codes/",
+      duration: "May 2020 - Present",
+      description: [
+       "Here, I am helping students on learning modern web development."
+      ],
+    }, 	
     {
       title: "Web Dev Team Member",
       organizationName: "GirlScript, Gunupur",
@@ -210,7 +216,7 @@ let resumeData = {
       ],
     },
     {
-      title: "DevIncept Web Dev Track Scholarship Recipient",
+      title: "Top performer in DevIncept's Web Dev Track Scholarsip Program",
       organizationName: "DevIncept",
       url: "https://devincept.codes/",
       achievedOn: "February 2021",

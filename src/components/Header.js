@@ -9,7 +9,7 @@ const Header = (props) => {
         <div className="col-lg-8 text-left pb-5">
           <h1 className="display-3">{resumeData.name}</h1>
           <p className="pl-2">
-            Full Stack Web Dev ▪ Flutter Dev ▪ Graphics Designer
+            Backend Dev ▪ Graphics Designer
           </p>
         </div>
         <div className="col-lg-4 text-center pb-5 rounded-circle">
